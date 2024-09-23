@@ -4,4 +4,4 @@ This is a small practice project I wanted to try to keep my C++ skills fresh tha
 
 ## Left to do
 
-I still need to make the ACE able to be either a 1 or 11, since now it is currently fixed at 1 or 11 and cannot be adjusted. I also want improve the dealer betting strategy, since as of now it just hits on anything below a 15 and stays above a 15 which is not very accurate. Lastly, I want to improve what the console output shows when you are dealt a hand and when you win/lose.
+I still need to make the ACE able to be either a 1 or 11, since now it is currently fixed at 1 or 11 and cannot be adjusted. I also want improve the dealer betting strategy, since as of now it just hits on anything below a 16 and stays for 16 and above which is not very accurate. Lastly, I want to improve what the console output shows when you are dealt a hand and when you win/lose.
